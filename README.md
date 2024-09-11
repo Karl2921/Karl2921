@@ -1,7 +1,3 @@
-<h1 align="left">Hi</h1>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Karl2921/count.svg?"  />
 </div>
