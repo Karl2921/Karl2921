@@ -1,18 +1,27 @@
-
-<h2 align="left">Hi 👋!</h2>
-
+<h1 align="left">Hi</h1>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Karl2921/count.svg?"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Karl2921/Karl2921/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3fjp7fgeijgk1foel5fzbvxuy)
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=alpinejs" height="40" alt="alpinelinux logo"  />
+</div>
+
+###
