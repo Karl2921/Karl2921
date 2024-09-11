@@ -15,5 +15,4 @@
 <img src="https://raw.githubusercontent.com/Karl2921/Karl2921/output/snake.svg" alt="Snake animation" />
 
 ###
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3fjp7fgeijgk1foel5fzbvxuy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=75ea71)](https://github.com/kittinan/spotify-github-profile)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3fjp7fgeijgk1foel5fzbvxuy)
